@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://najarkhshb.github.io/njar/sitemap.xml
